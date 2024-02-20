@@ -1,18 +1,15 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="center">Hey there, I'm Hibbanur Rahman! 👋</h1>
 
-###
+<p align="center">A passionate web developer and aspiring software engineer from MANUU, Hyderabad. Creating digital experiences and solving problems through elegant code.</p>
 
-<p align="left">My name is Hibbanur Rahman and I'm a  web developer, from MANUU,Hyderabad</p>
+<h2 align="center">About Me</h2>
 
-###
+<p align="center">🚀 Crafting bug-free solutions since 2021 <br>
+🌱 Currently diving deep into Node.js for backend and React.js for frontend <br>
+🎯 Goal: Mastering the art of bug-finding and resolution, evolving into a seasoned coder-engineer 😊 <br>
+💡 Fun Fact: Coding is not just my job, it's my passion! 💻</p>
 
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning Backend in Nodejs and frontend in reactjs<br>🎯 Goals: Becoming a bug finder and resolver that is coder engineer ☺️ <br>🎲 Fun fact: i am coder 😉</p>
-
-###
+<h2 align="center">Tech Stack</h2>
 
 <h2 align="left">I code with</h2>
 
