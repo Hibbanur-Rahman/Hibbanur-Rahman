@@ -9,7 +9,7 @@
 🎯 Goal: Mastering the art of bug-finding and resolution, evolving into a seasoned coder-engineer 😊 <br>
 💡 Fun Fact: Coding is not just my job, it's my passion! 💻</p>
 
-<h2 align="center">Tech Stack</h2>
+<h2 >Tech Stack</h2>
 
 
 ###
