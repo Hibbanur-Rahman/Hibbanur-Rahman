@@ -54,10 +54,12 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/hibbanur-rahman/count.svg?"  />
 </div>
-<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Hibbanur-Rahman&theme=dark&hide_border=false)<br/>
+
 
 ###
+# 📊 GitHub Stats:
+<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Hibbanur-Rahman&theme=dark&hide_border=false)<br/>
 
 <div align="center">
   <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=8&username=hibbanur-rahman" alt="Layout with last medium posts"  />
