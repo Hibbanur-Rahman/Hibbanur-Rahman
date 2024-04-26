@@ -84,6 +84,6 @@
 </div>
 
 
-<img src="https://raw.githubusercontent.com/hibbanur-rahman/hibbanur-rahman/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Hibbanur-Rahman/Hibbanur-Rahman/output/snake.svg" alt="Snake animation" />
 
 ###
