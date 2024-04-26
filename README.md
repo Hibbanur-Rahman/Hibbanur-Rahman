@@ -69,10 +69,21 @@
 
 
 ###
+
+###
+<br clear="both"/>
+<img src="https://raw.githubusercontent.com/Hibbanur-Rahman/Hibbanur-Rahman/output/snake.svg" alt="Snake animation" />
+
+###
 ###
 
+###
 
-<div align="left">
+<p align="left">Connect With Me</p>
+
+###
+
+<div align="center">
   <a href="https://www.linkedin.com/in/hibbanur-rahman-826864231/?trk=public_profile_browsemap&originalSubdomain=in" style="text-decoration:none;">
   
 
@@ -83,8 +94,3 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
 </div>
 
-###
-<br clear="both"/>
-<img src="https://raw.githubusercontent.com/Hibbanur-Rahman/Hibbanur-Rahman/output/snake.svg" alt="Snake animation" />
-
-###
