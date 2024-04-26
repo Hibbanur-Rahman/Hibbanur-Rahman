@@ -85,6 +85,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Hibbanur-Rahman/Hibbanur-Rahman/output/snake.yml" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Hibbanur-Rahman/Hibbanur-Rahman/output/snake.svg" alt="Snake animation" />
 
 ###
