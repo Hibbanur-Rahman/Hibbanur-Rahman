@@ -57,9 +57,7 @@
 
 
 ###
-# 📊 GitHub Stats:
-<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Hibbanur-Rahman&theme=dark&hide_border=false)<br/>
+
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hibbanur-Rahman&theme=dark&hide_border=false"  />
 </div>
