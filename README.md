@@ -60,7 +60,9 @@
 # 📊 GitHub Stats:
 <br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Hibbanur-Rahman&theme=dark&hide_border=false)<br/>
-
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hibbanur-Rahman&theme=dark&hide_border=false"  />
+</div>
 <div align="center">
   <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=8&username=hibbanur-rahman" alt="Layout with last medium posts"  />
 </div>
