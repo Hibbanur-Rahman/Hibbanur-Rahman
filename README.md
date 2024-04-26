@@ -11,7 +11,6 @@
 
 <h2 >Tech Stack</h2>
 
-
 ###
 
 <div align="left">
@@ -43,38 +42,43 @@
 </div>
 
 ###
+
 ## GitHub Stats
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hibbanur-rahman&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hibbanur-rahman&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
+
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hibbanur-Rahman&theme=dark&hide_border=false"  />
 </div>
 
-
 ###
+
 ### 🔝 Top Contributed Repo
+
 ![](https://github-contributor-stats.vercel.app/api?username=Hibbanur-Rahman&limit=10&theme=dark&combine_all_yearly_contributions=true)
 
-
 ###
+
 ## Profile Counter
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/hibbanur-rahman/count.svg?"  />
 </div>
 
-
 ###
 
 ###
+
 <br clear="both"/>
 <img src="https://raw.githubusercontent.com/Hibbanur-Rahman/Hibbanur-Rahman/output/snake.svg" alt="Snake animation" />
 
 ###
+
 ###
 
 ###
@@ -85,12 +89,18 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/hibbanur-rahman-826864231/?trk=public_profile_browsemap&originalSubdomain=in" style="text-decoration:none;">
-  
 
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
+  <a href="https://twitter.com/hibbanrahmanhyt" style="text-decoration:none;">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+  <a href="https://discord.com/channels/@me/1215853898158440482" style="text-decoration:none;">
+  
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+  <a href="https://www.youtube.com/channel/UC0TJEYnPaWksamy6h84noBA" style="text-decoration:none;">
+  
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  </a>
 </div>
-
