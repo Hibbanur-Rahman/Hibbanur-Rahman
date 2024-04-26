@@ -75,6 +75,10 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
 </div>
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=wasim0009&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+
 ###
 
 <img src="https://raw.githubusercontent.com/hibbanur-rahman/hibbanur-rahman/output/snake.svg" alt="Snake animation" />
