@@ -84,7 +84,7 @@
 </div>
 
 ###
-
+<br clear="both"/>
 <img src="https://raw.githubusercontent.com/Hibbanur-Rahman/Hibbanur-Rahman/output/snake.svg" alt="Snake animation" />
 
 ###
