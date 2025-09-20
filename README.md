@@ -85,7 +85,7 @@
 
 ###
 
-<p align="left">Connect With Me</p>
+<p align="left">Connect With Me!</p>
 
 ###
 
