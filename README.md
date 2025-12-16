@@ -1,6 +1,6 @@
 <h1 ">Hey there, I'm Hibbanur Rahman! 👋</h1>
 
-<p>A passionate web developer and aspiring software engineer from MANUU, Hyderabad. Creating digital experiences and solving problems through elegant code.</p>
+<p>A passionate web developer and aspiring software engineer from Mithila Stack. Creating digital experiences and solving problems through elegant code.</p>
 
 <h2>About Me</h2>
 
